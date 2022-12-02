@@ -17,7 +17,7 @@ Avec une ou plusieurs des options suivantes :
 
 Les options sont cumulables entre elles, par exemple :
 
-- `dirstat.sh -h -s` affichera les tailles du répertoire courant et de ses sous-dossiers directs, de manière lisible pour un 
+- `Disklyzer.sh -h -s` affichera les tailles du répertoire courant et de ses sous-dossiers directs, de manière lisible pour un 
 être humain, triées par ordre décroissant
-- `dirstat.sh -d ∼/Videos/ -f -r "unicorn"` affichera la taille du répertoire Videos et de ses fichiers et sous-dossiers 
+- `Disklyzer.sh -d ∼/Videos/ -f -r "unicorn"` affichera la taille du répertoire Videos et de ses fichiers et sous-dossiers 
 directs dont le nom contient unicorn
